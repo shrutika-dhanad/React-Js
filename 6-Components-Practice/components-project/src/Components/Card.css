@@ -1,0 +1,27 @@
+.Card{
+width: 20vw;
+border: 2px solid black;
+margin: 23px;
+padding: 23px;
+background-color: #d9cece;
+height:400px;
+
+
+
+}
+#btn{
+    height: 35px;
+    width: 70px;
+    font-size: large;
+    color: black;
+    background-color:rgb(215, 218, 204);
+    border: 2px solid grey;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 6rem;
+    margin-top: 1.5rem;
+    gap: 2px;
+}
