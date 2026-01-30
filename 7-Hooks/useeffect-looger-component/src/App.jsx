@@ -4,6 +4,7 @@ import './App.css'
 // import LoggerComponent from './Components/LoggerComponent'
 import TimerComponent from './Components/TimerComponent'
 import ResizewinComponent from './Components/ResizewinComponent'
+import MultiEffectComponents from './Components/MultiEffectComponents'
 function App() {
 
 
@@ -13,7 +14,7 @@ function App() {
        {/* <TimerComponent /> */}
        {/* <DataFetcherComponent /> */}
        {/* <ResizewinComponent /> */}
-
+        
 
    </div>
   )
