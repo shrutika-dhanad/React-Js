@@ -1,0 +1,6 @@
+.myNave{
+  color: 3px splid red;
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
