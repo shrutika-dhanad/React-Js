@@ -6,7 +6,7 @@ import "./About.css"
 const About = () => {
   return (
     <div>
-      <h2>About page</h2>
+      <h2>About page page</h2>
     <nav>
       <ul>
       <li className='list'>
