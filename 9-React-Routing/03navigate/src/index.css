@@ -1,0 +1,11 @@
+.myDiv{
+    height: 300px;
+    width: 440px;
+    border: 2px solid grey;
+    
+}
+.myList{
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid grey;
+}
