@@ -1,0 +1,13 @@
+.myNav{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content:safe;
+  gap: 2rem;
+  border: 1px solid grey;
+  padding: 2rem;
+  margin: auto;
+  font-size: x-large;
+  background-color:rgb(206, 206, 216);
+     
+}
